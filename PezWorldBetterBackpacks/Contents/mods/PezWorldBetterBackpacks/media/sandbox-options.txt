@@ -1,0 +1,272 @@
+VERSION = 1,
+
+option PezWorldBetterBackpacks.Bag_ALICEpack_Army
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 56.0,
+    page = PezWorldBetterBackpacks,
+    translation = ALICEpackArmyCapacity,
+}
+option PezWorldBetterBackpacks.Bag_ALICEpack
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 54.0,
+    page = PezWorldBetterBackpacks,
+    translation = ALICEpackCapacity,
+}
+option PezWorldBetterBackpacks.Bag_BigHikingBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 44.0,
+    page = PezWorldBetterBackpacks,
+    translation = BigHikingBagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_NormalHikingBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 40.0,
+    page = PezWorldBetterBackpacks,
+    translation = NormalHikingBagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_DuffelBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 36.0,
+    page = PezWorldBetterBackpacks,
+    translation = DuffelBagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_GolfBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 36.0,
+    page = PezWorldBetterBackpacks,
+    translation = GolfBagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_MedicalBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 36.0,
+    page = PezWorldBetterBackpacks,
+    translation = MedicalBagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_Schoolbag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 30.0,
+    page = PezWorldBetterBackpacks,
+    translation = SchoolBagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_Satchel
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 30.0,
+    page = PezWorldBetterBackpacks,
+    translation = SatchelCapacity,
+}
+option PezWorldBetterBackpacks.Bag_FannyPack
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 10.0,
+    page = PezWorldBetterBackpacks,
+    translation = FannyPackCapacity,
+}
+option PezWorldBetterBackpacks.Garbagebag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 40.0,
+    page = PezWorldBetterBackpacks,
+    translation = GarbagebagCapacity,
+}
+option PezWorldBetterBackpacks.Suitcase
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 32.0,
+    page = PezWorldBetterBackpacks,
+    translation = SuitcaseCapacity,
+}
+option PezWorldBetterBackpacks.Sack
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 30.0,
+    page = PezWorldBetterBackpacks,
+    translation = SackCapacity,
+}
+option PezWorldBetterBackpacks.Purse
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 24.0,
+    page = PezWorldBetterBackpacks,
+    translation = PurseCapacity,
+}
+option PezWorldBetterBackpacks.Tote
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 24.0,
+    page = PezWorldBetterBackpacks,
+    translation = ToteCapacity,
+}
+option PezWorldBetterBackpacks.Lunchbag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 20.0,
+    page = PezWorldBetterBackpacks,
+    translation = LunchbagCapacity,
+}
+option PezWorldBetterBackpacks.Bag_BowlingBallBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 16.0,
+    page = PezWorldBetterBackpacks,
+    translation = Bag_BowlingBallBagCapacity,
+}
+option PezWorldBetterBackpacks.Cooler
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 16.0,
+    page = PezWorldBetterBackpacks,
+    translation = CoolerCapacity,
+}
+option PezWorldBetterBackpacks.Bag_DoctorBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 16.0,
+    page = PezWorldBetterBackpacks,
+    translation = Bag_DoctorBagCapacity,
+}
+option PezWorldBetterBackpacks.Handbag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 16.0,
+    page = PezWorldBetterBackpacks,
+    translation = HandbagCapacity,
+}
+option PezWorldBetterBackpacks.Plasticbag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 16.0,
+    page = PezWorldBetterBackpacks,
+    translation = PlasticbagCapacity,
+}
+option PezWorldBetterBackpacks.Toolbox
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 16.0,
+    page = PezWorldBetterBackpacks,
+    translation = ToolboxCapacity,
+}
+option PezWorldBetterBackpacks.Briefcase
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 14.0,
+    page = PezWorldBetterBackpacks,
+    translation = BriefcaseCapacity,
+}
+option PezWorldBetterBackpacks.Guncase
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 14.0,
+    page = PezWorldBetterBackpacks,
+    translation = GuncaseCapacity,
+}
+option PezWorldBetterBackpacks.Guitarcase
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 10.0,
+    page = PezWorldBetterBackpacks,
+    translation = GuitarcaseCapacity,
+}
+option PezWorldBetterBackpacks.SeedBag
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 10.0,
+    page = PezWorldBetterBackpacks,
+    translation = SeedBagCapacity,
+}
+option PezWorldBetterBackpacks.SewingKit
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 10.0,
+    page = PezWorldBetterBackpacks,
+    translation = SewingKitCapacity,
+}
+option PezWorldBetterBackpacks.FirstAidKit
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 8.0,
+    page = PezWorldBetterBackpacks,
+    translation = FirstAidKitCapacity,
+}
+option PezWorldBetterBackpacks.PistolCase
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 8.0,
+    page = PezWorldBetterBackpacks,
+    translation = PistolCaseCapacity,
+}
+option PezWorldBetterBackpacks.Lunchbox
+{
+    type = double,
+    min = 1.0,
+    max = 100.0,
+    default = 8.0,
+    page = PezWorldBetterBackpacks,
+    translation = LunchboxCapacity,
+}
