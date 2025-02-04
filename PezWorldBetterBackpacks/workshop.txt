@@ -1,6 +1,0 @@
-version=1
-id=3412715206
-title=PezWorld Better Backpacks B41
-description=Possibility of configuring the Capacity of the backpacks, and pre-established modification of their weight reduction, speed penalty. -/- * Posibilidad de configurar la Capacidad de las mochilas, y modificación preestablecida de su reducción de peso, penalización de velocidad.
-tags=Build 41;Balance;Items
-visibility=public
