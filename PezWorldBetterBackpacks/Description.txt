@@ -1,0 +1,101 @@
+[h1]ENGLISH[/h1]
+
+Please, if you like my content, rate it, and I would greatly appreciate a comment and adding it to favorites! That motivates me to continue contributing to the community!
+
+[h2][MOD INFORMATION][/h2]
+Possibility of configuring the Capacity of the backpacks, and pre-established modification of their weight reduction, speed penalty. 
+
+Weight of backpacks and carry-on containers = 50%
+Backpack and carry-on container capacity = 200% [Configurable]
+Weight Reduction = Between 5% and 40% depending on the item.
+
+___________________________________________________
+[h1]SPANISH[/h1]
+
+Por favor si le gusta mi contenido califíquelo, y le agradecería muchísimo un comentario y que lo agregue a favoritos! Eso me motiva a seguir aportando a la comunidad!
+
+[h2][INFORMACIÓN DEL MOD][/h2]
+Posibilidad de configurar la Capacidad de las mochilas, y modificación preestablecida de su reducción de peso, penalización de velocidad.
+
+Peso de las mochilas y contenedores de mano = 50%
+Capacidad de las mochilas y contenedores de mano 200% [Configurable]
+Reducción de carga = Entre 5% y 40% depende del item
+___________________________________________________
+
+[h2]AffectedItems[/h2]
+
+[h3]- Wearable[/h3]
+[list]
+[*] Base.Bag_BigHikingBag
+[*]Base.Bag_DuffelBag
+[*]Base.Bag_DuffelBagTINT
+[*]Base.Bag_InmateEscapedBag
+[*]Base.Bag_ShotgunBag
+[*]Base.Bag_FoodSnacks
+[*]Base.Bag_Military
+[*]Base.Bag_WeaponBag
+[*]Base.Bag_ToolBag
+[*]Base.Bag_WorkerBag
+[*]Base.Bag_MoneyBag
+[*]Base.Bag_FoodCanned
+[*]Base.Bag_ShotgunDblBag
+[*]Base.Bag_ShotgunSawnoffBag
+[*]Base.Bag_FannyPackBack
+[*]Base.Bag_Golf
+[*]BagBase.Bag_NormalHikingBag
+[*]Base.Bag_SurvivorBag
+[*]Base.Bag_ALICEpack_Army
+[*]Base.Bag_SatchelBase.Bag_Schoolbag
+[*]Base.Bag_MedicalBag
+[/list]
+
+[h3]- Handheld[/h3]
+[list]
+[*]Base.Garbagebag
+[*]Base.Suitcase
+[*]Base.EmptySandbag
+[*]Base.SackPotatoes
+[*]Base.SackOnions
+[*]Base.SackCarrots
+[*]Base.SackCabbages
+[*]Base.Purse
+[*]Base.Tote
+[*]Base.Lunchbag
+[*]Base.Bag_BowlingBallBag
+[*]Base.Bag_DoctorBag
+[*]Base.Cooler
+[*]Base.Handbag
+[*]Base.Plasticbag
+[*]Base.GroceryBag1
+[*]Base.GroceryBag2
+[*]Base.GroceryBag3
+[*]Base.GroceryBag4
+[*]Base.GroceryBag5
+[*]Base.Toolbox
+[*]Base.Bag_JanitorToolbox
+[*]Base.Briefcase
+[*]Base.RifleCase1
+[*]Base.RifleCase2
+[*]Base.RifleCase3
+[*]Base.ShotgunCase1
+[*]Base.ShotgunCase2
+[*]Base.Flightcase
+[*]Base.Guitarcase
+[*]Base.SeedBag
+[*]Base.SewingKit
+[*]Base.FirstAidKit
+[*]Base.PistolCase1
+[*]Base.PistolCase2
+[*]Base.PistolCase3
+[*]Base.RevolverCase1
+[*]Base.RevolverCase2
+[*]Base.RevolverCase3
+[*]Base.Lunchbox
+[*]Base.Lunchbox2
+[/list]
+
+
+[h3]
+Workshop ID: 3412715206
+Mod ID: PWBetterBackpacks
+[/h3]
