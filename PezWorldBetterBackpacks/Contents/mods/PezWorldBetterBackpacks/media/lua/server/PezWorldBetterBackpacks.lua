@@ -181,6 +181,18 @@ Adjust("Base.Suitcase","RunSpeedModifier","0.99")
 Adjust("Base.EmptySandbag","WeightReduction","50")
 Adjust("Base.EmptySandbag","Capacity",Sack)
 
+Adjust("Base.SackPotatoes","WeightReduction","50")
+Adjust("Base.SackPotatoes","Capacity",Sack)
+
+Adjust("Base.SackOnions","WeightReduction","50")
+Adjust("Base.SackOnions","Capacity",Sack)
+
+Adjust("Base.SackCarrots","WeightReduction","50")
+Adjust("Base.SackCarrots","Capacity",Sack)
+
+Adjust("Base.SackCabbages","WeightReduction","50")
+Adjust("Base.SackCabbages","Capacity",Sack)
+
 Adjust("Base.Purse","WeightReduction","75")
 Adjust("Base.Purse","Weight","0.25")
 Adjust("Base.Purse","Capacity",Purse)
